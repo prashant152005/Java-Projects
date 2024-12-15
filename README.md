@@ -1,2 +1,2 @@
-Every file is individual file, none of them are linked, every file itself is ready to run.
+None of these files are linked, every file itself is ready to run.
 All these files are basic java codes...

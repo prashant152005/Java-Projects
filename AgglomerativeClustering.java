@@ -1,4 +1,6 @@
-//Agglomerative Clustering
+//Agglomerative Clustering (Method 1)
+
+
 import java.util.Scanner;
 public class AgglomerativeClustering {
     public static void main(String[] args) {

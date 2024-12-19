@@ -1,7 +1,7 @@
 
 import java.util.*;
 import java.io.*;
-public class first_medium {
+public class first_Medium {
         public static void main(String args[]) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter out = new PrintWriter(System.out);

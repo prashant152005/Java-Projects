@@ -1,3 +1,4 @@
+// Implementing first Medium with the help of Java
 
 import java.util.*;
 import java.io.*;

@@ -162,8 +162,7 @@ public void actionPerformed(ActionEvent e){
             b8.setLabel(label);  
             b9.setLabel("");  
         }  
-    }  
-      
+    }        
     //congrats code  
     if(b1.getLabel().equals("1")&&b2.getLabel().equals("2")&&b3.getLabel()    
             .equals("3")&&b4.getLabel().equals("4")&&b5.getLabel().equals("5")    

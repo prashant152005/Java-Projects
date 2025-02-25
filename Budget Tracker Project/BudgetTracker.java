@@ -6,7 +6,7 @@ public class BudgetTracker {
     public BudgetTracker() {
         balance = 0.0;
     }
-
+    
     public void addIncome(double amount) {
         balance += amount;
     }
